@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on basic Javascript developments 
+## - 🔭 I’m currently working on basic Javascript developments 
 - 🌱 I’m currently learning how to code
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with world development
